@@ -1,0 +1,36 @@
+*{
+    font-size: 22px;
+}
+body {
+    background-image: url(../img/backgroundwood.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+section {
+    padding: auto;
+    margin: 6% auto;
+    background-image: url(../img/greeting.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 800px;
+    height: 500px;
+    border-radius: 5%;
+    box-shadow: 8px 8px 30px red;
+}
+#message{
+    padding: 5% 10%;
+    color: whitesmoke;
+    text-align: left;
+}
+h1{
+    font-size: 3rem;
+    font-family: 'Merienda One', cursive;
+}
+p{
+    font-size: 1rem;
+    font-family: 'Merienda One', cursive;
+}
+#jakob{
+    color: gray;
+}
